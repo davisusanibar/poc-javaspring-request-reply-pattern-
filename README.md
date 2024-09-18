@@ -2,7 +2,7 @@
 
 ## Alcance PoC
 
-PoC para mostrar como [Spring Replying Temokate](https://docs.spring.io/spring-kafka/reference/kafka/sending-messages.html#replying-template) framework TypeScript implementa de manera nativa el patron
+PoC para mostrar como [Spring Replying Temokate](https://docs.spring.io/spring-kafka/reference/kafka/sending-messages.html#replying-template) framework implementa de manera nativa el patron
 `Request-Repy` out of the box.
 
 ## Setup
