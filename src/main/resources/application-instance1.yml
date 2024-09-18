@@ -1,0 +1,8 @@
+server:
+  port: 38080
+
+spring:
+  kafka:
+    consumer:
+      group-id: replies_group_instance
+
