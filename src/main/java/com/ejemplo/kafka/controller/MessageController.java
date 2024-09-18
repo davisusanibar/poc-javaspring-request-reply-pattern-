@@ -1,6 +1,7 @@
 /* (C)2024 */
 package com.ejemplo.kafka.controller;
 
+import com.ejemplo.kafka.redis.RedisMessageProcessor;
 import com.ejemplo.kafka.service.KafkaRequestService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
